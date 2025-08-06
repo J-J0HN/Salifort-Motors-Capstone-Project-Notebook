@@ -60,6 +60,6 @@ Through this project, I strengthened my end-to-end data analytics capabilities �
 
 ## 📬 Let’s Connect
 
-If you’re interested in learning more or think I could be a good fit for your data team, feel free to [connect with me on LinkedIn](#https://www.linkedin.com/in/j0yalj0hn/) or reach out via [email](mailto:j.john.work3500@gmail.com).
+If you’re interested in learning more or think I could be a good fit for your data team, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/j0yalj0hn/) or reach out via [email](mailto:j.john.work3500@gmail.com).
 
 ---
