@@ -46,8 +46,9 @@ Salifort Motors, a large automotive company, is facing challenges in employee re
 ## 📁 Project Structure
 
 - `CapstoneProjectNotebook.ipynb` – Main Jupyter notebook containing the full analysis, visuals, and models.
-- `\models` - Contains saves of both machine learning models used in this project
-- `.gitignore` - (Ignore this folder as this project is ran on a virtual machine and I needed to not upload those files into this repo)
+- `\models` – Contains saves of both machine learning models used in this project.
+- `.gitignore` – (Ignore this folder as this project is ran on a virtual machine and I needed to not upload those files into this repo).
+- `.Executive_summary.pptx` – Contains a summary to inform stakeholders with insights found from the notebook.
 - `README.md` – Project overview and context (this file).
 
 ---
