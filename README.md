@@ -36,9 +36,9 @@ Salifort Motors, a large automotive company, is facing challenges in employee re
 
 ## 📈 Project Highlights
 
-- Identified that **low satisfaction level**, **long work hours**, and **lack of promotion** are key indicators of attrition.
+- Identified that **too many projects**, and **last evaluation time** are key indicators of attrition.
 - Achieved a classification model with strong performance on F1 and ROC-AUC scores.
-- Visualized impactful trends (e.g., attrition by department, satisfaction level distributions).
+- Visualized impactful trends (e.g., attrition by department, relationships between `average_monthly_hours` and `promotion_last_5years`).
 - Created interpretable models and provided **clear business recommendations** for HR teams to reduce attrition.
 
 ---
